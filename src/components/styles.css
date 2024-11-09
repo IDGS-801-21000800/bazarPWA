@@ -1,0 +1,6 @@
+.resistor-bands{
+    display: flex;
+}
+.resistor-bands > * {
+    padding: 0.5rem;
+}
